@@ -1,4 +1,7 @@
 //your JS code here. If required.
+h1{
+	text-align: center;
+}
 table {
     width: 100%;
     border-collapse: collapse;
