@@ -1,12 +1,7 @@
-
-table {
-    background-color: rgb(255, 255, 0);
-    border: 1px solid rgb(0, 0, 0);
-    padding: 1px;
+table{
+    background-color: yellow;
+    border: 1px solid rgb(0,0,0);
 }
-
-th,
-td {
-	background-color: rgb(255, 255, 0);
-    border: 1px solid rgb(0, 0, 0);
+th , td {
+    border: 1px solid black;
 }
